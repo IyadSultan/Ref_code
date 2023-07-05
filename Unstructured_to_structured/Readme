@@ -1,4 +1,4 @@
-Structured Data Extraction with Pydantic, OpenAI and LangChain 
+Structured Data Extraction with Pydantic, OpenAI and LangChain  
 Extracting structured data from raw, unstructured text can be a challenging task, especially when dealing with large volumes of data. This project combines the powerful data validation library Pydantic, OpenAI's language model function calling, and LangChain's AI models to efficiently parse text data and extract relevant information in a structured format.
 
 Scenario
