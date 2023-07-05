@@ -3,7 +3,7 @@ Extracting structured data from raw, unstructured text can be a challenging task
 
 Scenario
 Suppose you have numerous blog posts and articles about healthcare startups, and you want to extract key information from this text into a structured format for further analysis. This project provides an easy and efficient way to accomplish this.
-
+ 
 How does it work?
 Here's a high-level overview:
 
