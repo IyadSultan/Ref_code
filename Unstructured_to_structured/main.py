@@ -71,4 +71,4 @@ for startup in data['startups']:
         # If the founder does not have contact information, print just their name
         else:
             print(f'\t{founder["name"]}')
-    print('')  # Print a blank line between startups
+    print('')  # Print a blank line between startups 

@@ -17,7 +17,7 @@ Extract the data: The model processes the text and returns the extracted data in
 
 Example Code
 Here's a sample implementation of the process described above:
-
+ 
 python
 Copy code
 # Import the required libraries and modules
